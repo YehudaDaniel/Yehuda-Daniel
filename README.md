@@ -4,7 +4,11 @@
 I'm Yehuda, and I enjoy developing cool and useful applications with real life use cases, as well as acquiring new and interesting knowledge every single day.
 I also have much fun coming up with out of the box solutions for intriguing problems.
 
-Skills: FLUTTER / NODE JS/ JS / HTML / CSS
+## Skills
+* 🌲 Node Js
+* 📴 Flutter
+* 🖥️ HTML, CSS, JS
+
 
 - 🔭 I’m currently working on collabity, an app where ideas and people can meet and discuss 
 

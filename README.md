@@ -6,6 +6,7 @@ I also have much fun coming up with out of the box solutions for intriguing prob
 
 ## Skills
 * 🌲 Node Js
+* 💧 TypeScript
 * 📴 Flutter
 * 🖥️ HTML, CSS, JS
 

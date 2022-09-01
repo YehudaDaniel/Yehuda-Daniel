@@ -5,13 +5,14 @@ I'm Yehuda, and I enjoy developing cool and useful applications with real life u
 I also have much fun coming up with out of the box solutions for intriguing problems.
 
 ## Skills
+* ☕ C/ C++
 * 🌲 Node Js
 * 💧 TypeScript
 * 📴 Flutter
-* 🖥️ HTML, CSS, JS
+* 🖥️ HTML, CSS, JS, React
 
 
-- 🔭 I’m currently working on collabity, an app where ideas and people can meet and discuss 
+- 🔭 I’m currently a second year Computer Science student at the College of Management.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/h10ytguf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yehuda-daniel-52483020a//)  
